@@ -1,0 +1,9 @@
+joblib==1.4.2
+numpy==2.1.2
+pandas==2.2.3
+gunicorn
+Flask==3.0.3
+scikit-learn==1.5.2
+peewee==3.17.7
+pymysql==1.1.1
+Flask-CORS==5.0.0

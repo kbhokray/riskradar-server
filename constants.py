@@ -1,0 +1,30 @@
+RAW_DATA_FILE = "data/UCI_Credit_Card.csv"
+SAMPLEDATA_USER_FILE = "data/SampleData_Users.csv"
+SAMPLEDATA_PAYMENT_FILE = "data/SampleData_Payments.csv"
+
+SAMPLE_MODELINPUT = {
+    "USER_ID": 22341,
+    "CREDIT_LIMIT": 250000.0,
+    "SEX": 2,
+    "EDUCATION": 1,
+    "MARITALSTATUS": 2,
+    "AGE": 25,
+    "PAYMENTDELAY_1": 0,
+    "PAYMENTDELAY_2": 0,
+    "PAYMENTDELAY_3": 0,
+    "PAYMENTDELAY_4": 0,
+    "PAYMENTDELAY_5": 0,
+    "PAYMENTDELAY_6": 0,
+    "BILL_AMT1": 18761.0,
+    "BILL_AMT2": 10656.0,
+    "BILL_AMT3": 7099.0,
+    "BILL_AMT4": 11758.0,
+    "BILL_AMT5": 17047.0,
+    "BILL_AMT6": 16483.0,
+    "PAID_AMT1": 4662.0,
+    "PAID_AMT2": 2101.0,
+    "PAID_AMT3": 7227.0,
+    "PAID_AMT4": 7865.0,
+    "PAID_AMT5": 8485.0,
+    "PAID_AMT6": 5777.0,
+}
